@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/Hello_World/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/Hello_World/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/Hello_World/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/Images/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/Images/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/Images/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/Navigation_Between_Two_Screens/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/Navigation_Between_Two_Screens/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/Navigation_Between_Two_Screens/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/Text_Input/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/Text_Input/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/Text_Input/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_api/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_api/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_api/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_audio_video/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_audio_video/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_audio_video/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_json/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_json/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_json/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_maps/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_maps/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_maps/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_sharing_preferences/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_sharing_preferences/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_sharing_preferences/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_text_files/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_text_files/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutterfiles-main/working_with_text_files/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
